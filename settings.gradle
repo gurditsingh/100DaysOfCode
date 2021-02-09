@@ -1,3 +1,4 @@
 rootProject.name = '100DaysOfCode'
 include 'DataStructure'
+include 'SparkStreaming'
 
